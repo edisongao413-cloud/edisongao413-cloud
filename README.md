@@ -10,7 +10,7 @@ I turn messy data into decisions — from pricing optimization models to market 
 - **Focus areas:** pricing analytics, market research, business intelligence
 
 ## 📊 Featured Projects
-- **[Price Elasticity & Profit Optimization Model](https://github.com/edisongao413-cloud/price-elasticity-and-optimization-model)** — estimated demand sensitivity across 5 products and compared 3 pricing strategies, projecting **+34.4% net profit** vs. baseline (Python, pandas, NumPy).
+- **[Price Elasticity & Profit Optimization Model](https://github.com/edisongao413-cloud/price-elasticity-and-optimization-model)** — dynamic pricing model for a LEGOLAND Shanghai Resort case study: Bayesian optimization with cross-validation for pricing parameters, K-Means clustering and association rule mining on 6 months of sales data to identify price-sensitive segments, and a Power BI dashboard with 15+ interactive visuals and 4 scenario-based pricing strategies — projecting **+34.4% net profit** vs. baseline (Python, pandas, scikit-learn, NumPy, Power BI).
 - **AI Retrieval Project** — building an AI-powered retrieval system; details coming soon.
 
 ## 💼 Experience
